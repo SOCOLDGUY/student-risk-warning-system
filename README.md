@@ -35,7 +35,7 @@ student-risk-warning-system/
 ## 🚀 快速开始
 
 ### 1. 环境配置
-```bash
+bash
 # 安装依赖
 pip install -r requirements.txt
 
@@ -49,6 +49,7 @@ python src/visualization_report.py
 jupyter notebook notebooks/student_risk_analysis.ipynb
 
 📈 结果展示
+
 特征重要性: 课程视频观看完成率是最重要特征
 
 个性化报告: 为不同风险等级学生提供具体改进建议
@@ -61,3 +62,4 @@ jupyter notebook notebooks/student_risk_analysis.ipynb
 
 📄 许可证
 本项目采用 MIT 许可证 - 查看 LICENSE 文件了解详情
+
